@@ -6,10 +6,17 @@ body {
 
 h1 {
   text-align: center;
+  color: #2b0028;
 }
 
 h2 {
   text-align: center;
+  color: #2b0028;
+}
+
+a {
+  color: #c4225b;
+  font-weight: bold;
 }
 
 .container {
@@ -25,4 +32,8 @@ h2 {
 
 .list-unstyled li {
   margin-bottom: 10px;
+}
+
+.u-center {
+  text-align: center;
 }
