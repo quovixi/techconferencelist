@@ -11,3 +11,9 @@ h1 {
 h2 {
   text-align: center;
 }
+
+.container {
+  max-width: 60rem;
+  padding: 0 15px;
+  margin: 0 auto;
+}
