@@ -1,17 +1,15 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
-  color: #36454f;
+  color: #2b0028;
   margin: 0
 }
 
 h1 {
-  text-align: center;
-  color: #2b0028;
+  text-align: center; 
 }
 
 h2 {
   text-align: center;
-  color: #2b0028;
 }
 
 a {
