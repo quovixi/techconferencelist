@@ -17,3 +17,12 @@ h2 {
   padding: 0 15px;
   margin: 0 auto;
 }
+
+.list-unstyled {
+  list-style: none;
+  padding: 0;
+}
+
+.list-unstyled li {
+  margin-bottom: 5px;
+}
