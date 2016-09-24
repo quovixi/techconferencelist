@@ -37,3 +37,8 @@ a {
 .u-center {
   text-align: center;
 }
+
+.site-footer {
+  margin-top: 50px;
+  font-size: 12px;
+}
